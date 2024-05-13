@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "compile-styles": "sass sass:css --quiet"
+    }
+}
